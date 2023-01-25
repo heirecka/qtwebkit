@@ -12,10 +12,11 @@
 #include "common/debug.h"
 #include "common/platform.h"
 
-#include <limits>
 #include <algorithm>
-#include <string.h>
+#include <limits>
+#include <stdint.h>
 #include <stdlib.h>
+#include <string.h>
 
 namespace gl
 {
